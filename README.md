@@ -1,6 +1,5 @@
-== =========================================================== ==
+
 *** THIS IS THE DRIVE FOR THE OPENVLC1.0 CAPE ***
-== =========================================================== ==
 
 Please follow the instructions on http://www.openvlc.org/openvlc.html for the preparation & test.
 
