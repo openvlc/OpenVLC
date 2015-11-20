@@ -98,7 +98,7 @@ static struct rs_control *rs_decoder;
 static rtdm_timer_t phy_timer;
 static _Bool f_adjust_slot = 0;
 
-#define MAX_RETRANSMISSION  0 // At most tx 4 times
+#define MAX_RETRANSMISSION  2 // At most tx 4 times
 static int cnt_retransmission = 0;
 static _Bool f_re_tx = 0;
 
