@@ -1,4 +1,4 @@
-=== This is the driver for the OpenVLC1.0 cape === Link to the official version of the driver is: https://github.com/openvlc/openvlc ===
+=== This is the driver for both the OpenVLC1.0 and OpenVLC1.1 capes === Link to the official version of the driver is: https://github.com/openvlc/openvlc ===
 
 Please follow the instructions on http://www.openvlc.org/openvlc.html for the preparation & test.
 
