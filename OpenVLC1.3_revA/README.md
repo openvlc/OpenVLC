@@ -41,7 +41,7 @@
 
     sudo apt-get install linux-headers-$(uname -r)
 
-  3. Copy kernel folder and PRU to /home/debian.
+  3. In this repository you will find the kernel and PRU code folders. Just copy them into the path "/home/debian"
 
 ## Connecting the cape
 
