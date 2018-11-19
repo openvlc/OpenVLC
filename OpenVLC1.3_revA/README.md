@@ -41,7 +41,7 @@
 
     sudo apt-get install linux-headers-$(uname -r)
 
-  3. Copy OpenVLC1.3 folder and PRU to /home/debian.
+  3. Copy kernel folder and PRU to /home/debian.
 
 ## Connecting the cape
 
