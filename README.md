@@ -22,4 +22,4 @@ If you have any questions, you can send us emails (openvlc.networks@imdea.org) o
 
 ## License
 
-OpenVLC is under GNU General Public License v3.0
+OpenVLC is under GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
