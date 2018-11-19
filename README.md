@@ -19,3 +19,7 @@ The lack of an open-source and low-cost reference platform is hindering the prog
 ## Questions
 
 If you have any questions, you can send us emails (openvlc.networks@imdea.org) or post the questions here: https://groups.google.com/forum/#!forum/openvlc
+
+## License
+
+OpenVLC is under GNU General Public License v3.0
