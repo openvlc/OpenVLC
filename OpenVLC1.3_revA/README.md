@@ -72,4 +72,5 @@
   Once you have done that in TX and RX, both interfaces are up, so you can start using VLC as a common network interface. 
   Here is an example of an iperf test at 2.5 meters of distance:
 
+  ![alt text](http://nebula.wsimg.com/a1ddde94e0b321a3664a8fc487236108?AccessKeyId=FA5733F762B610D2E10A&disposition=0&alloworigin=1)
 
