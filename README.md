@@ -2,7 +2,9 @@
 
 This is the repository for the OpenVLC platform, an open-source, flexible and low-cost Visible Light Communication System platform. Research and development are conducted at IMDEA Networks Institute.
 
-## Want to get it?
+## New OpenVLC1.3 version
+
+We are delighted to announce that OpenVLC1.3 is ready for delivery! OpenVLC1.3 can now achieve a throughput of 400 Kb/s at the Transport Layer at a distance of more than 3 meter, powered simply by the BeagleBone Black!
 
 You can now contact us for details if you have interests in trying them!  Details are at http://www.openvlc.org/get-started.html
 
