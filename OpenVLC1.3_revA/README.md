@@ -46,9 +46,10 @@
 ## Connecting the cape
 
   Connect the cape to the BBB is quite easy, you just need to plug the cape to the correct pins as shown in the image below:
-  
-  ![alt text](http://nebula.wsimg.com/ee581ebfab0dbd95c78142d8f1515645?AccessKeyId=FA5733F762B610D2E10A&disposition=0&alloworigin=1)
-  ![alt text](http://nebula.wsimg.com/8d6e0f52e7134570f2eee6e17f3be40f?AccessKeyId=FA5733F762B610D2E10A&disposition=0&alloworigin=1)
+  <p align="center">
+    <img src="http://nebula.wsimg.com/ee581ebfab0dbd95c78142d8f1515645?AccessKeyId=FA5733F762B610D2E10A&disposition=0&alloworigin=1">
+    <img src="http://nebula.wsimg.com/8d6e0f52e7134570f2eee6e17f3be40f?AccessKeyId=FA5733F762B610D2E10A&disposition=0&alloworigin=1">
+  </p>
 
   Once it’s plugged, connect the 5 V power supply and that’s all.
   
@@ -75,5 +76,7 @@
   Once you have done that in TX and RX, both interfaces are up, so you can start using VLC as a common network interface. 
   Here is an example of an iperf test at 2.5 meters of distance:
 
-  ![alt text](http://nebula.wsimg.com/a1ddde94e0b321a3664a8fc487236108?AccessKeyId=FA5733F762B610D2E10A&disposition=0&alloworigin=1)
+  <p align="center">
+    <img src="http://nebula.wsimg.com/a1ddde94e0b321a3664a8fc487236108?AccessKeyId=FA5733F762B610D2E10A&disposition=0&alloworigin=1">
+  </p>
 
