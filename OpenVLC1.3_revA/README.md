@@ -80,3 +80,8 @@
     <img src="http://nebula.wsimg.com/a1ddde94e0b321a3664a8fc487236108?AccessKeyId=FA5733F762B610D2E10A&disposition=0&alloworigin=1">
   </p>
 
+## Feedback
+
+  If you have doubts and questions about these instructions, please leave your message in our Google group:
+  
+  https://groups.google.com/forum/#!forum/openvlc
