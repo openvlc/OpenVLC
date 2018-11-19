@@ -4,7 +4,9 @@ This is the repository for the OpenVLC platform, an open-source, flexible and lo
 
 ## New OpenVLC1.3 version
 
-![alt text](http://nebula.wsimg.com/750feb7fb8b1397c06ef859dfbfcebeb?AccessKeyId=FA5733F762B610D2E10A&disposition=0&alloworigin=1)
+<p align="center">
+  <img src="http://nebula.wsimg.com/750feb7fb8b1397c06ef859dfbfcebeb?AccessKeyId=FA5733F762B610D2E10A&disposition=0&alloworigin=1">
+</p>
 
 We are delighted to announce that OpenVLC1.3 is ready for delivery! OpenVLC1.3 can now achieve a throughput of 400 Kb/s at the Transport Layer at a distance of more than 3 meter, powered simply by the BeagleBone Black!
 
