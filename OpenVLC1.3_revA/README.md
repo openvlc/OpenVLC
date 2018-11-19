@@ -23,10 +23,10 @@
 
   Firsts steps are preparing the beaglebone. This must be done in TX as well as in RX. These are the steps:
   
-  1.Disable the HDMI: The HDMI uses some PRU pins that we need to use. To disable the HDMI cape edit the uEnv.txt file:
-  ´´´
-  sudo nano /boot/uEnv.txt
-  ´´´
+  1. Disable the HDMI: The HDMI uses some PRU pins that we need to use. To disable the HDMI cape edit the uEnv.txt file:
+  
+    sudo nano /boot/uEnv.txt
+  
   and uncomment the line:
 
     dtb=am335x-boneblack-emmc-overlay.dtb
