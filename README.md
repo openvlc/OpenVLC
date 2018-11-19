@@ -22,7 +22,7 @@ The lack of an open-source and low-cost reference platform is hindering the prog
 
 ## Questions
 
-If you have any questions, you can send us emails (openvlc.networks@imdea.org) or post the questions here: https://groups.google.com/forum/#!forum/openvlc
+If you have any questions, you can contact us at openvlc.networks@imdea.org and post your questions at https://groups.google.com/forum/#!forum/openvlc
 
 ## License
 
