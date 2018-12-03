@@ -565,7 +565,7 @@ start:
         }
 		if(phy_state == TX) {
 			if (mac_or_app == APP) {
-				if (!priv->tx_queue) {
+				if ((!priv->tx_queue) | (tx_pru[0]!=0)) {
 					usleep_range(20,50);
 					goto start;
 				}
