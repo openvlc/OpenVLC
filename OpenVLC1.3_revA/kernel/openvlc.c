@@ -97,7 +97,7 @@ static int dst_id = 8;
 static int self_id = 7;
 static int flag_exit = 0;
 static int flag_lock = 0;
-static int mtu = 1200;
+static int mtu = 1500;
 module_param(flag_lock, int, 0);
 module_param(self_id, int, 0);
 module_param(dst_id, int, 0);
@@ -654,7 +654,7 @@ static void get_the_data_rx(char * rx_data)
                 par_rx, encoded_len % block_size, NULL, 0, NULL, 0, NULL);
         }
         if (num_err < 0) {
-            printk("*** CRC error. ***\n");
+            printk("*** ECC error. ***\n");
             //f_adjust_slot = 1;
             goto end;
         }
@@ -688,7 +688,7 @@ end:
 static int phy_decoding(void *data)
 {
 	
-	char rx_data[1000];
+	char rx_data[2000];
 	int symbol_len,byte_len,thelen1,thelen2,numofblocks, len_bit, group_32bit, rest_32bit, j = 0;
 	int i=0;
 	unsigned int last, current_reg, value, bits, l, mask;
@@ -699,10 +699,13 @@ static int phy_decoding(void *data)
 			
 			
 			symbol_len = rx_pru[1];
-			if((symbol_len > 32000) || (symbol_len < 200))
+			//printk("Symbols received : %d\n",rx_pru[1]);
+
+			if((symbol_len > 32000) || (symbol_len < 200)) // To avoid false frames
 			{
 				rx_pru[0] = 0;
-				goto error;
+				rx_pru[1] = 0;
+				goto payload_error;
 			} 
 			
 			byte_len = ((symbol_len-1-32)/16)+3;
@@ -720,15 +723,16 @@ static int phy_decoding(void *data)
 				j++;
 			}
 			
-			if((thelen1>900)||(thelen1<0))
+			if((thelen1>mtu)||(thelen1<0)) // To avoid false frames
 			{
 				rx_pru[0] = 0;
+				rx_pru[1] = 0;
 				goto payload_error;
 			} 
 			rx_data[0] = ((thelen1 >> 8) & 0xFF);
 			rx_data[1] = (thelen1 & 0xFF);
 			
-			//printk("Symbols received : %d\n",rx_pru[1]);
+			
 			//printk("Payload %d\n", thelen1);
 			
 			memcpy(&rx_data[2],&rx_pru[2],group_32bit*sizeof(unsigned int)); // 
