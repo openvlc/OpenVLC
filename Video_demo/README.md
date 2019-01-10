@@ -16,3 +16,4 @@ The video is hosted in a HTTP server. The client asks for the video (using VLC a
 through the ethernet connection (tested wired connection, WiFi to be tested), and the server
 sends it through the VLC link. Due to the TCP transmission, when a packet is lost, the client
 asks for it through the ethernet connection.
+
