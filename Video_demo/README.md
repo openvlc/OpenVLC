@@ -17,3 +17,11 @@ through the ethernet connection (tested wired connection, WiFi to be tested), an
 sends it through the VLC link. Due to the TCP transmission, when a packet is lost, the client
 asks for it through the ethernet connection.
 
+# Configuration
+
+To carry out this demo we only need to configure the networks involved so the routing can be done correctly.
+There are 4 networks in the system, described in next table:
+
+<p align="center">
+  <img src="http://i63.tinypic.com/290wknp.jpg">
+</p>
