@@ -7,7 +7,7 @@ laptop (server) to the RX laptop (client). Communication in the other way is car
 an ethernet link.
 
 <p align="center">
-  <img src="https://imgur.com/a/QxRFsBC">
+  <img src="https://cdn1.imggmi.com/uploads/2019/1/10/59962c7518230c7621d243739fff9a07-full.jpg">
 </p>
 
 Both computers are running Linux and the BBB run the OpenVLC1.3 driver with the
