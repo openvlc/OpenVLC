@@ -73,7 +73,13 @@
 #include <linux/cdev.h>
 // end for ioctl
 #include <linux/device.h>         // Header to support the kernel Driver Model
+#include <linux/version.h>
 
+#if LINUX_VERSION_CODE == KERNEL_VERSION(4,14,71)
+	#define KERNEL_V4_14_71 1
+#else
+	#define KERNEL_V4_14_71 0
+#endif
 
 
 #define MAC 0
@@ -309,9 +315,12 @@ int vlc_tx(struct sk_buff *skb, struct net_device *dev)
 {
     struct vlc_packet *tmp_pkt;// TODO Commented so that it doesn't return!
 
-    dev->trans_start = jiffies; //8.7 linux version
-	//netif_trans_update(dev); // 9.4 linux version
-    tmp_pkt = vlc_get_tx_buffer(dev);
+	#if(KERNEL_V4_14_71)
+		netif_trans_update(dev); // 9.4 linux version
+	#else
+		dev->trans_start = jiffies; //8.7 linux version
+    #endif
+	tmp_pkt = vlc_get_tx_buffer(dev);
     tmp_pkt->next = NULL; 
     tmp_pkt->datalen = skb->len;
     memcpy(tmp_pkt->data, skb->data, skb->len);
