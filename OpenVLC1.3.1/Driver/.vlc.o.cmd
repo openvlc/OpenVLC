@@ -1,0 +1,1 @@
+cmd_/home/debian/Constant_Illumination/OpenVLC/kernel/vlc.o := ld -EL    -r -o /home/debian/Constant_Illumination/OpenVLC/kernel/vlc.o /home/debian/Constant_Illumination/OpenVLC/kernel/reed_solomon.o /home/debian/Constant_Illumination/OpenVLC/kernel/openvlc.o 

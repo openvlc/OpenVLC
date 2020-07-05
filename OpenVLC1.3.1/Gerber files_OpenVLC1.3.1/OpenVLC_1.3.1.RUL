@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\VLC schematics\1.3.7 (constant illumination)\OpenVLC 1.3.1 with Constt Illumination and load switch\OpenVLC_1.3.7.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=19.69

@@ -1,0 +1,1 @@
+cmd_/home/debian/Constant_Illumination/OpenVLC/kernel/vlc.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/debian/Constant_Illumination/OpenVLC/kernel/vlc.ko /home/debian/Constant_Illumination/OpenVLC/kernel/vlc.o /home/debian/Constant_Illumination/OpenVLC/kernel/vlc.mod.o
