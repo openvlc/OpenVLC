@@ -30,4 +30,4 @@ If you use openVLC for your research, please cite "A. Galisteo, D. Juara, D. Giu
 
 ## License
 
-Driver code of OpenVLC is released under GNU General Public License v3.0 - see the [LICENSE_driver.md](Latest_Version/LICENSE_driver.md) file for details. PRU code of OpenVLC is released under  BSD-2 license - see the [LICENSE_pru.md](Latest_Version/LICENSE_pru.md) file for details
+Driver code of OpenVLC is released under GNU General Public License v3.0 - see the [LICENSE_driver.md](Latest_Version/LICENSE_driver.md) file for details. PRU code of OpenVLC is released under  BSD-2 license - see the [LICENSE_pru.md](Latest_Version/LICENSE_pru.md) file for details.
