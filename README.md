@@ -10,7 +10,7 @@ This is the repository for the OpenVLC platform, an open-source, flexible and lo
 
 We are delighted to announce that OpenVLC1.3 is ready for delivery! OpenVLC1.3 can now achieve a throughput of 400 Kb/s at the Transport Layer at a distance of more than 3 meter, powered simply by the BeagleBone Black!
 
-You can now contact us for details if you have interests in trying them! Details are at http://www.openvlc.org/get-started.html
+Details on how to get started are available at http://www.openvlc.org/instructions.html 
 
 ## What is Visible Light Communication - LiFi? 
 
@@ -23,6 +23,10 @@ The lack of an open-source and low-cost reference platform is hindering the prog
 ## Questions
 
 If you have any questions, you can contact us at openvlc.networks@imdea.org and post your questions at https://groups.google.com/forum/#!forum/openvlc
+
+## Citation
+
+If you use openVLC for your research, please cite "A. Galisteo, D. Juara, D. Giustiniano, "Research in Visible Light Communication Systems with OpenVLC1.3", IEEE World Forum on Internet of Things (WF-IoT) 2019." 
 
 ## License
 
