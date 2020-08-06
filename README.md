@@ -84,6 +84,8 @@ There are two parts in the TX/RX, the kernel driver and the PRU code. Follow the
     _cd bin_<br/>
     _sudo ln -s /usr/bin/clpru clpru_<br/>
     _sudo ln -s /usr/bin/lnkpru lnkpru_<br/>
+
+* Then go to the PRU folder, enter TX/RX and run sudo _./deploy.sh_. This will boot up the PRUs with the code necessary to transmit and receive VLC data.
     
 #### Working with the TX/RX
 
