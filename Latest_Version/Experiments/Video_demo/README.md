@@ -6,9 +6,7 @@ in the image. The VLC link uses 2 BBB acting as routers to redirect the traffic 
 laptop (server) to the RX laptop (client). Communication in the other way is carry out through
 an ethernet link.
 
-<p align="center">
-  <img src="https://cdn1.imggmi.com/uploads/2019/1/10/59962c7518230c7621d243739fff9a07-full.jpg">
-</p>
+![Video Demo Network](https://github.com/openvlc/OpenVLC/tree/master/Latest_Version/Experiments/Video_demo/videoDemo_network.png)
 
 Both computers are running Linux and the BBB run the OpenVLC1.3 driver with the
 OpenVLC1.3 Rev A capes plugged.
