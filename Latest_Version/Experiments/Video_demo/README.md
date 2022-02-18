@@ -1,12 +1,10 @@
 # Video demo
 
 In this demo we show a video transmission over a VLC (Visible Light Communication) link. The
-testbed is based on two links communication, an ethernet link and a visible light link, as shown
-in the image. The VLC link uses 2 BBB acting as routers to redirect the traffic from the TX
+testbed is based on two links communication, an Ethernet link and a visible light link. 
+The VLC link uses 2 BBB acting as routers to redirect the traffic from the TX
 laptop (server) to the RX laptop (client). Communication in the other way is carry out through
-an ethernet link.
-
-![Video Demo Network](videoDemo_network.svg)
+an Ethernet link.
 
 Both computers are running Linux and the BBB run the OpenVLC1.3 driver with the
 OpenVLC1.3 Rev A capes plugged.
@@ -20,6 +18,4 @@ asks for it through the ethernet connection.
 To carry out this demo we only need to configure the networks involved so the routing can be done correctly.
 There are 4 networks in the system, described in next table:
 
-<p align="center">
-  <img src="http://i63.tinypic.com/290wknp.jpg">
-</p>
+![Video Demo Network](videoDemo_network.svg)
