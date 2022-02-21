@@ -417,6 +417,48 @@
          id="tspan16048-1-9-5-3" /></text>
     <text
        xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="27.545544"
+       y="102.31265"
+       id="text2706-3-4-9-6-1-8-9"
+       inkscape:export-filename="C:\Users\javit\OneDrive\Escritorio\videoDemo_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="27.545544"
+         y="102.31265"
+         id="tspan16048-1-9-5-3-1">USB-TX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="211.14662"
+       y="102.31265"
+       id="text2706-3-4-9-6-1-8-9-6"
+       inkscape:export-filename="C:\Users\javit\OneDrive\Escritorio\videoDemo_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="211.14662"
+         y="102.31265"
+         id="tspan16048-1-9-5-3-1-8">USB-RX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="121.84455"
+       y="71.548943"
+       id="text2706-3-4-9-6-1-8-9-6-8"
+       inkscape:export-filename="C:\Users\javit\OneDrive\Escritorio\videoDemo_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="121.84455"
+         y="71.548943"
+         id="tspan16048-1-9-5-3-1-8-8">Ethernet link</tspan></text>
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="180.02301"
        y="161.41304"

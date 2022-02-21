@@ -43,5 +43,6 @@ vlc http://192.168.2.8:8080
 ``
 
 Further details on this demo can be found in the following publication: 
+
 Ander Galisteo, Diego Juara, Hector Cordobes, and Domenico Giustiniano. 2019. _Video Transmission Using Low-Cost Visible Light Communication_. In <i>Proceedings of the Twentieth ACM International Symposium on Mobile Ad Hoc Networking and Computing</i> (<i>Mobihoc '19</i>). Association for Computing Machinery, New York, NY, USA, 401–402. DOI: https://doi.org/10.1145/3323679.3326617
 
