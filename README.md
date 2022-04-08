@@ -31,6 +31,20 @@ The new OpenVLC1.3 takes advantage of the programmable real time units (PRU) inc
   <img src="https://user-images.githubusercontent.com/68498451/88546288-72afb180-d01c-11ea-9b4e-301b47784e4e.JPG">
 </p>
 
+### Testing the cape
+Although OpenVLC 1.3 cape is designed to be connected to the BBB, its functionalities can be tried without one. This step is not essential and requires additional devices such as a waveform generator or an oscilloscope. But it can be useful to test its correct functioning before plugging it to the BBB and to avoid possible damages to the board.
+
+### TX mode
+Set the connections shown in image below. Connect a 5 V power supply to the jack port. To emulate a transmission with OpenVLC 1.3 you can produce in the cape pin TX SIGNAL (P8_45 in BBB) a square wave between 0 and 3.3 V at 1 MHz. The LED should light on without any noticeable blinking. Modulated light can be measured with a fast light-sensing device (photodiode) connected to an oscilloscope.
+To test constant illumination, connect TX SIGNAL to GND and the pin next to it (P8_46) to 3.3 V. The LED should provide similar illumination level than in the previous case.
+
+![TX_standalone_test](https://github.com/openvlc/OpenVLC/blob/master/Images/TX_standalone_test.jpg)
+
+### RX mode
+Set the connections shown in image below. Connect a 5 V power supply to the jack port. Produce a square wave between 0 and 3.3 V at 1 MHz at ADC CS, and a square wave between 0 and 3.3 V at 48 MHz at ADC SCLK. You can read the serial digital output from the ADC in the cape on pin RX SIGNAL.
+
+![RX_standalone_test](https://github.com/openvlc/OpenVLC/blob/master/Images/RX_standalone_test.jpg)
+
 ### Experimental Setup
 
 #### Creating the SD Card
