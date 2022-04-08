@@ -38,12 +38,12 @@ Although OpenVLC 1.3 cape is designed to be connected to the BBB, its functional
 Set the connections shown in image below. Connect a 5 V power supply to the jack port. To emulate a transmission with OpenVLC 1.3 you can produce in the cape pin TX SIGNAL (P8_45 in BBB) a square wave between 0 and 3.3 V at 1 MHz. The LED should light on without any noticeable blinking. Modulated light can be measured with a fast light-sensing device (photodiode) connected to an oscilloscope.
 To test constant illumination, connect TX SIGNAL to GND and the pin next to it (P8_46) to 3.3 V. The LED should provide similar illumination level than in the previous case.
 
-![TX_standalone_test](https://github.com/openvlc/OpenVLC/blob/master/Images/TX_standalone_test.jpg)
+![TX_standalone_test](https://github.com/openvlc/OpenVLC/blob/master/Images/TX_standalone_test.png)
 
 ### RX mode
 Set the connections shown in image below. Connect a 5 V power supply to the jack port. Produce a square wave between 0 and 3.3 V at 1 MHz at ADC CS, and a square wave between 0 and 3.3 V at 48 MHz at ADC SCLK. You can read the serial digital output from the ADC in the cape on pin RX SIGNAL.
 
-![RX_standalone_test](https://github.com/openvlc/OpenVLC/blob/master/Images/RX_standalone_test.jpg)
+![RX_standalone_test](https://github.com/openvlc/OpenVLC/blob/master/Images/RX_standalone_test.png)
 
 ### Experimental Setup
 
