@@ -1,56 +1,53 @@
-Altium Designer Pick and Place Locations
-C:\Users\javit\IMDEA\OpenVLC\OpenVLC_repo\OpenVLC\Latest_Version\Hardware\Design_files\Pick Place for PCB_Design.csv
-
-========================================================================================================================
-File Design Information:
-
-Date:       02/12/22
-Time:       16:29
-Revision:   Not in VersionControl
-Variant:    No variations
-Units used: mil
-
-"Designator","Comment","Layer","Footprint","Footprint Description","Center-X(mil)","Center-Y(mil)","Rotation","Description","ComponentKind","Height(mil)","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
-"D1","","TopLayer","DO-214AC","JEDEC DO214 variation AC. SMA","92.931","1756.297","90","Diode Schottky SMD 100V 2A SMA","Standard","98.425","92.933","1756.297","92.931","1673.619"
-"J1","2.0 mm Center Pin, 2.5 A, Right Angle, Through Hole, Tapered Pins, Dc Power Jack Connector","TopLayer","CUI_PJ-102A","","442.185","552.537","90","","Standard","0.000","442.186","645.056","560.295","645.057"
-"ADC_PD","ADC_PD","TopLayer","SOT23-6","","566.982","344.864","180","","Standard","62.992","566.981","344.864","618.163","307.463"
-"P1","BBB_P8_reduced","TopLayer","BBB_CAPE_NO_HEADER_R_24","46-pin male header for BeagleBone Black P8,P9","602.125","2020.395","180","","Standard","0.000","-1047.874","1970.394","1152.125","2070.395"
-"P2","BBB_P9_reduced","TopLayer","BBB_CAPE_NO_HEADER_R_24","46-pin male header for BeagleBone Black P8,P9","602.125","120.395","180","","Standard","0.000","-1047.874","70.394","152.125","170.395"
-"C6_2","Cap","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","1207.863","1826.263","90","Capacitor","Standard","51.181","1207.864","1826.263","1207.863","1798.703"
-"C6_1","Cap","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","975.291","1826.263","90","Capacitor","Standard","51.181","975.292","1826.263","975.291","1798.703"
-"C13","Cap","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","838.116","317.165","360","Capacitor","Standard","51.181","838.117","317.165","810.557","317.165"
-"C12","Cap","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","781.101","473.794","270","Capacitor","Standard","51.181","781.101","473.794","781.101","501.353"
-"C4","Cap","TopLayer","WCAP-ATG8_10x12.5x5x0.6","Polarized capacitors, Aluminum Electrolytic Capacitors, 2-Leads, Body 10x12.5x5x0.6","484.262","1721.305","180","Capacitor","Standard","492.126","484.262","1721.305","582.687","1721.305"
-"C2","Cap","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","119.982","1170.229","180","Capacitor","Standard","51.181","119.983","1170.229","147.541","1170.229"
-"C5","Cap","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","768.710","1494.717","180","Capacitor","Standard","51.181","768.711","1494.717","796.269","1494.717"
-"C1","Cap","TopLayer","WCAP-ATG8_6.3x11x2.5x0.5","Polarized capacitors, Aluminum Electrolytic Capacitors, 2-Leads, Body 6.3x11x2.5x0.5","152.587","973.900","270","Capacitor","Standard","433.071","152.588","973.900","152.587","1023.113"
-"C3","Cap","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","768.710","1383.285","180","Capacitor","Standard","51.181","768.711","1383.284","796.269","1383.285"
-"C9","Cap","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","975.817","346.792","90","Capacitor","Standard","51.181","975.818","346.793","975.817","319.233"
-"C10","Cap","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","1156.368","281.787","180","Capacitor","Standard","51.181","1156.368","281.787","1183.927","281.787"
-"C11","Cap","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","1065.341","314.308","90","Capacitor","Standard","51.181","1065.342","314.308","1065.341","286.749"
-"C7","Cap","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","714.650","247.793","0","Capacitor","Standard","51.181","714.649","247.793","687.091","247.793"
-"C8","Cap","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","714.650","304.137","0","Capacitor","Standard","51.181","714.649","304.137","687.091","304.137"
-"PS","Comment","TopLayer","ONSC-SOT-363-6-419B-02_W_V","SOT23, 6-Leads, Body 2x1.25mm, Pitch 0.65mm","231.856","343.014","90","","Standard","43.307","231.856","343.013","206.265","305.611"
-"HL","High Power LED","TopLayer","LEDM345X345X226","","1229.899","1143.317","360","Typical RED GaAs LED","Standard","0.000","1229.899","1143.316","1174.781","1143.317"
-"L1","Inductor","TopLayer","WCAP-ATG8_8x16x5x0.5","Polarized capacitors, Aluminum Electrolytic Capacitors, 2-Leads, Body 8x16x3.5x0.5","176.411","1396.955","90","Inductor","Standard","629.921","176.411","1396.954","176.411","1296.955"
-"DC-DC","LM2585","TopLayer","TO-263-5","D-PAK/TO-263-5; 5 Leads; Body 14.4 (inc. leads) x 10.4 mm (LxW max)","533.463","1237.486","270","","Standard","183.071","533.462","1180.398","667.715","1422.525"
-"MGD_I","LM5114B","TopLayer","SOT23-6_N","SOT23, 6-Leads, Body 2.9x1.6mm, Pitch 0.95mm, Lead Span 2.7mm, IPC Medium Density","1319.870","1838.865","90","MOSFET Gate Driver","Standard","57.087","1319.870","1838.865","1282.469","1791.621"
-"MGD_C","LM5114B","TopLayer","SOT23-6_N","SOT23, 6-Leads, Body 2.9x1.6mm, Pitch 0.95mm, Lead Span 2.7mm, IPC Medium Density","1090.946","1838.865","90","MOSFET Gate Driver","Standard","57.087","1090.947","1838.865","1053.545","1791.621"
-"LTC6269-11","LTC6269-10","TopLayer","MSOP8","","1066.562","457.113","180","","Standard","0.000","1066.562","457.113","1157.113","418.727"
-"MOSFET_I","MOSFET","TopLayer","SOT23-3","SOT23, 3 pin","1273.771","1609.660","270","P-Channel MOSFET","Standard","39.500","1273.772","1609.660","1311.173","1654.935"
-"MOSFET_C","MOSFET","TopLayer","SOT23-3","SOT23, 3 pin","953.478","1609.660","270","P-Channel MOSFET","Standard","39.500","953.479","1609.660","990.879","1654.935"
-"PD","Photo Sen","TopLayer","HDR1X2","Connector; Header; 2 Position","1254.837","507.041","90","Photosensitive Diode","Standard","0.000","1254.837","457.041","1254.837","457.041"
-"R1","Res Semi","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","768.710","1439.001","180","Semiconductor Resistor","Standard","51.181","768.711","1439.000","796.269","1439.001"
-"R4_22","Res1","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","1341.628","1724.505","180","Resistor","Standard","51.181","1341.629","1724.505","1369.187","1724.505"
-"R4_21","Res1","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","1099.076","1724.505","180","Resistor","Standard","51.181","1099.076","1724.505","1126.635","1724.505"
-"R10","Res1","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","907.439","473.794","90","Resistor","Standard","51.181","907.439","473.794","907.439","446.235"
-"R3","Res1","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","252.547","1736.486","270","Resistor","Standard","51.181","252.548","1736.486","252.547","1764.045"
-"R2","Res1","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","186.379","1736.486","90","Resistor","Standard","51.181","186.380","1736.486","186.379","1708.927"
-"R5","Res1","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","1156.230","348.813","180","Resistor","Standard","51.181","1156.230","348.813","1183.789","348.813"
-"R6","Res1","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","1246.461","314.308","90","Resistor","Standard","51.181","1246.462","314.308","1246.461","286.749"
-"R7","Res1","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","1034.117","585.568","90","Resistor","Standard","51.181","1034.118","585.568","1034.117","558.009"
-"R8","Res1","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","1106.519","586.172","270","Resistor","Standard","51.181","1106.519","586.172","1106.519","613.731"
-"R9","Res1","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","844.269","473.794","270","Resistor","Standard","51.181","844.270","473.794","844.269","501.353"
-"R11","Res1","TopLayer","1608[0603]","Chip Capacitor, Body 1.6x0.8mm, IPC High Density","837.704","380.217","360","Resistor","Standard","51.181","837.705","380.217","810.145","380.217"
-"R4_12","Res3","TopLayer","C1206","Chip Capacitor, Body 3.2x1.6mm, IPC High Density","1434.128","1544.045","180","Resistor","Standard","51.181","1434.128","1544.045","1487.277","1544.045"
-"R4_11","Res3","TopLayer","14-1210","Chip Resistor, Body 3.2x2.5mm, IPC High Density","1108.097","1540.309","180","Resistor","Standard","35.433","1108.098","1540.309","1161.247","1540.309"
+========================================================================================================================,,,,,,,,,,,,,,
+File Design Information:,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Date:       02/12/22,,,,,,,,,,,,,,
+Time:       16:29,,,,,,,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,,,,,,,
+Variant:    No variations,,,,,,,,,,,,,,
+Units used: mil,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Designator,Comment,Layer,Footprint,Footprint Description,Center-X(mil),Center-Y(mil),Rotation,Description,ComponentKind,Height(mil),Ref-X(mil),Ref-Y(mil),Pad-X(mil),Pad-Y(mil)
+D1,,TopLayer,DO-214AC,JEDEC DO214 variation AC. SMA,92.931,1756.297,90,Diode Schottky SMD 100V 2A SMA,Standard,98.425,92.933,1756.297,92.931,1673.619
+J1,"2.0 mm Center Pin, 2.5 A, Right Angle, Through Hole, Tapered Pins, Dc Power Jack Connector",TopLayer,CUI_PJ-102A,,442.185,552.537,90,,Standard,0,442.186,645.056,560.295,645.057
+ADC_PD,ADC_PD,TopLayer,SOT23-6,,566.982,344.864,180,,Standard,62.992,566.981,344.864,618.163,307.463
+P1,BBB_P8_reduced,TopLayer,BBB_CAPE_NO_HEADER_R_24,"46-pin male header for BeagleBone Black P8,P9",602.125,2020.395,180,,Standard,0,-1047.874,1970.394,1152.125,2070.395
+P2,BBB_P9_reduced,TopLayer,BBB_CAPE_NO_HEADER_R_24,"46-pin male header for BeagleBone Black P8,P9",602.125,120.395,180,,Standard,0,-1047.874,70.394,152.125,170.395
+C6_2,Cap,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",1207.863,1826.263,90,Capacitor,Standard,51.181,1207.864,1826.263,1207.863,1798.703
+C6_1,Cap,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",975.291,1826.263,90,Capacitor,Standard,51.181,975.292,1826.263,975.291,1798.703
+C13,Cap,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",838.116,317.165,360,Capacitor,Standard,51.181,838.117,317.165,810.557,317.165
+C12,Cap,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",781.101,473.794,270,Capacitor,Standard,51.181,781.101,473.794,781.101,501.353
+C4,Cap,TopLayer,WCAP-ATG8_10x12.5x5x0.6,"Polarized capacitors, Aluminum Electrolytic Capacitors, 2-Leads, Body 10x12.5x5x0.6",484.262,1721.305,180,Capacitor,Standard,492.126,484.262,1721.305,582.687,1721.305
+C2,Cap,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",119.982,1170.229,180,Capacitor,Standard,51.181,119.983,1170.229,147.541,1170.229
+C5,Cap,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",768.71,1494.717,180,Capacitor,Standard,51.181,768.711,1494.717,796.269,1494.717
+C1,Cap,TopLayer,WCAP-ATG8_6.3x11x2.5x0.5,"Polarized capacitors, Aluminum Electrolytic Capacitors, 2-Leads, Body 6.3x11x2.5x0.5",152.587,973.9,270,Capacitor,Standard,433.071,152.588,973.9,152.587,1023.113
+C3,Cap,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",768.71,1383.285,180,Capacitor,Standard,51.181,768.711,1383.284,796.269,1383.285
+C9,Cap,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",975.817,346.792,90,Capacitor,Standard,51.181,975.818,346.793,975.817,319.233
+C10,Cap,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",1156.368,281.787,180,Capacitor,Standard,51.181,1156.368,281.787,1183.927,281.787
+C11,Cap,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",1065.341,314.308,90,Capacitor,Standard,51.181,1065.342,314.308,1065.341,286.749
+C7,Cap,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",714.65,247.793,0,Capacitor,Standard,51.181,714.649,247.793,687.091,247.793
+C8,Cap,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",714.65,304.137,0,Capacitor,Standard,51.181,714.649,304.137,687.091,304.137
+PS,Comment,TopLayer,ONSC-SOT-363-6-419B-02_W_V,"SOT23, 6-Leads, Body 2x1.25mm, Pitch 0.65mm",231.856,343.014,90,,Standard,43.307,231.856,343.013,206.265,305.611
+HL,High Power LED,TopLayer,LEDM345X345X226,,1229.899,1143.317,360,Typical RED GaAs LED,Standard,0,1229.899,1143.316,1174.781,1143.317
+L1,Inductor,TopLayer,WCAP-ATG8_8x16x5x0.5,"Polarized capacitors, Aluminum Electrolytic Capacitors, 2-Leads, Body 8x16x3.5x0.5",176.411,1396.955,90,Inductor,Standard,629.921,176.411,1396.954,176.411,1296.955
+DC-DC,LM2585,TopLayer,TO-263-5,D-PAK/TO-263-5; 5 Leads; Body 14.4 (inc. leads) x 10.4 mm (LxW max),533.463,1237.486,270,,Standard,183.071,533.462,1180.398,667.715,1422.525
+MGD_I,LM5114B,TopLayer,SOT23-6_N,"SOT23, 6-Leads, Body 2.9x1.6mm, Pitch 0.95mm, Lead Span 2.7mm, IPC Medium Density",1319.87,1838.865,90,MOSFET Gate Driver,Standard,57.087,1319.87,1838.865,1282.469,1791.621
+MGD_C,LM5114B,TopLayer,SOT23-6_N,"SOT23, 6-Leads, Body 2.9x1.6mm, Pitch 0.95mm, Lead Span 2.7mm, IPC Medium Density",1090.946,1838.865,90,MOSFET Gate Driver,Standard,57.087,1090.947,1838.865,1053.545,1791.621
+LTC6269-11,LTC6269-10,TopLayer,MSOP8,,1066.562,457.113,180,,Standard,0,1066.562,457.113,1157.113,418.727
+MOSFET_I,MOSFET,TopLayer,SOT23-3,"SOT23, 3 pin",1273.771,1609.66,270,P-Channel MOSFET,Standard,39.5,1273.772,1609.66,1311.173,1654.935
+MOSFET_C,MOSFET,TopLayer,SOT23-3,"SOT23, 3 pin",953.478,1609.66,270,P-Channel MOSFET,Standard,39.5,953.479,1609.66,990.879,1654.935
+PD,Photo Sen,TopLayer,HDR1X2,Connector; Header; 2 Position,1254.837,507.041,90,Photosensitive Diode,Standard,0,1254.837,457.041,1254.837,457.041
+R1,Res Semi,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",768.71,1439.001,180,Semiconductor Resistor,Standard,51.181,768.711,1439,796.269,1439.001
+R4_22,Res1,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",1341.628,1724.505,180,Resistor,Standard,51.181,1341.629,1724.505,1369.187,1724.505
+R4_21,Res1,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",1099.076,1724.505,180,Resistor,Standard,51.181,1099.076,1724.505,1126.635,1724.505
+R10,Res1,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",907.439,473.794,90,Resistor,Standard,51.181,907.439,473.794,907.439,446.235
+R3,Res1,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",252.547,1736.486,270,Resistor,Standard,51.181,252.548,1736.486,252.547,1764.045
+R2,Res1,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",186.379,1736.486,90,Resistor,Standard,51.181,186.38,1736.486,186.379,1708.927
+R5,Res1,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",1156.23,348.813,180,Resistor,Standard,51.181,1156.23,348.813,1183.789,348.813
+R6,Res1,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",1246.461,314.308,90,Resistor,Standard,51.181,1246.462,314.308,1246.461,286.749
+R7,Res1,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",1034.117,585.568,90,Resistor,Standard,51.181,1034.118,585.568,1034.117,558.009
+R8,Res1,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",1106.519,586.172,270,Resistor,Standard,51.181,1106.519,586.172,1106.519,613.731
+R9,Res1,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",844.269,473.794,270,Resistor,Standard,51.181,844.27,473.794,844.269,501.353
+R11,Res1,TopLayer,1608[0603],"Chip Capacitor, Body 1.6x0.8mm, IPC High Density",837.704,380.217,360,Resistor,Standard,51.181,837.705,380.217,810.145,380.217
+R4_12,Res3,TopLayer,C1206,"Chip Capacitor, Body 3.2x1.6mm, IPC High Density",1434.128,1544.045,180,Resistor,Standard,51.181,1434.128,1544.045,1487.277,1544.045
+R4_11,Res3,TopLayer,14-1210,"Chip Resistor, Body 3.2x2.5mm, IPC High Density",1108.097,1540.309,180,Resistor,Standard,35.433,1108.098,1540.309,1161.247,1540.309
