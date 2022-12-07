@@ -1,0 +1,7 @@
+0x29fa419f	decode_rs8	/home/debian/Constant_Illumination/OpenVLC/kernel/vlc	EXPORT_SYMBOL_GPL
+0x300d7e57	free_rs	/home/debian/Constant_Illumination/OpenVLC/kernel/vlc	EXPORT_SYMBOL_GPL
+0x4de6f387	encode_rs16	/home/debian/Constant_Illumination/OpenVLC/kernel/vlc	EXPORT_SYMBOL_GPL
+0x6fbb3bd9	init_rs_non_canonical	/home/debian/Constant_Illumination/OpenVLC/kernel/vlc	EXPORT_SYMBOL_GPL
+0xb050f329	init_rs	/home/debian/Constant_Illumination/OpenVLC/kernel/vlc	EXPORT_SYMBOL_GPL
+0xabda1e2e	decode_rs16	/home/debian/Constant_Illumination/OpenVLC/kernel/vlc	EXPORT_SYMBOL_GPL
+0x201d8ea3	encode_rs8	/home/debian/Constant_Illumination/OpenVLC/kernel/vlc	EXPORT_SYMBOL_GPL
