@@ -1,9 +1,0 @@
-gen/main_pru0.object: main_pru0.c
-gen/main_pru0.object: /usr/share/ti/cgt-pru/include/stdint.h
-gen/main_pru0.object: ../include/am335x/pru_cfg.h
-gen/main_pru0.object: resource_table_pru0.h
-gen/main_pru0.object: /usr/share/ti/cgt-pru/include/stddef.h
-gen/main_pru0.object: ../include/rsc_types.h
-gen/main_pru0.object: ../include/pru_types.h
-gen/main_pru0.object: ../include/pru_virtio_ids.h
-gen/main_pru0.object: pru_defs.h
