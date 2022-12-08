@@ -5,14 +5,14 @@ This repository contains the software (Driver), firmware (PRU), and hardware (De
 ## Repository content 
 
 The content of this repository is organized as follows:
-* [Driver](https://github.com/openvlc/OpenVLC/tree/master/OpenVLC_VL_IR): Contains the OpenVLC driver interfacing the MAC layer in OpenVLC with the upper layer of the OSI model (Network, Transport, and Application layers)
-* [PRU](https://github.com/openvlc/OpenVLC/tree/master/OpenVLC_VL_IR/PRU) folder: Contains the firmware implementing the TX and RX chains in OpenVLC. For the TX chain, one of the following options should be selected depending on the desired dimming level:
+* [Driver](https://github.com/openvlc/OpenVLC/tree/master/OpenVLC_VL_IR(beta)/Driver): Contains the OpenVLC driver interfacing the MAC layer in OpenVLC with the upper layer of the OSI model (Network, Transport, and Application layers)
+* [PRU](https://github.com/openvlc/OpenVLC/tree/master/OpenVLC_VL_IR(beta)/PRU) folder: Contains the firmware implementing the TX and RX chains in OpenVLC. For the TX chain, one of the following options should be selected depending on the desired dimming level:
     * TX_VL_IR_Dimming_0 --> 0% Dimming (As in OpenVLC, only the VL spectra is used)
     * TX_VL_IR_Dimming_25 --> 25% Dimming 
     * TX_VL_IR_Dimming_50 --> 50% Dimming 
     * TX_VL_IR_Dimming_75 --> 75% Dimming 
     * TX_VL_IR_Dimming_100 --> 100% Dimming (Only the IR spectra is used)
-* [Hardware](https://github.com/openvlc/OpenVLC/tree/master/OpenVLC_VL_IR/Hardware): Contains the Design and Gerber files for the new OpenVLC cape integrating VL and IR LEDs for transmissions in both bands.
+* [Hardware](https://github.com/openvlc/OpenVLC/tree/master/OpenVLC_VL_IR(beta)/Hardware): Contains the Design and Gerber files for the new OpenVLC cape integrating VL and IR LEDs for transmissions in both bands.
 
 ## Designed cape and pinout
 
