@@ -6,7 +6,7 @@ This repository contains the software (Driver), firmware (PRU), and hardware (De
 
 The content of this repository is organized as follows:
 * [Driver](https://github.com/openvlc/OpenVLC/tree/master/OpenVLC_VL_IR(beta)/Driver): Contains the OpenVLC driver interfacing the MAC layer in OpenVLC with the upper layer of the OSI model (Network, Transport, and Application layers)
-* [PRU](https://github.com/openvlc/OpenVLC/tree/master/OpenVLC_VL_IR(beta)/PRU) folder: Contains the firmware implementing the TX and RX chains in OpenVLC. For the TX chain, one of the following options should be selected depending on the desired dimming level:
+* [PRU](https://github.com/openvlc/OpenVLC/tree/master/OpenVLC_VL_IR(beta)/PRU): Contains the firmware implementing the TX and RX chains in OpenVLC. For the TX chain, one of the following options should be selected depending on the desired dimming level:
     * TX_VL_IR_Dimming_0 --> 0% Dimming (As in OpenVLC, only the VL spectra is used)
     * TX_VL_IR_Dimming_25 --> 25% Dimming 
     * TX_VL_IR_Dimming_50 --> 50% Dimming 
