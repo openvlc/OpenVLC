@@ -2,7 +2,7 @@
 
 This repository contains the software (Driver), firmware (PRU), and hardware (Design and Gerber files) implementing a new modulation scheme for the OpenVLC platform, which combines transmissions in the Visible Light (VL) and Infrared (IR) bands to provide larger dimming ranges without affecting the communication performance. Our paper "Visible Light or Infrared? Modulating LiFi for Dual Operation in the Visible and Infrared Spectra," published in WONS 2023, provides details on the proposed modulation scheme.
 
-## Repository content
+## Repository content 
 
 The content of this repository is organized as follows:
 * Driver folder: Contains the OpenVLC driver interfacing the MAC layer in OpenVLC with the upper layer of the OSI model (Network, Transport, and Application layers)
@@ -14,9 +14,9 @@ The content of this repository is organized as follows:
     * TX_VL_IR_Dimming_100 --> 100% Dimming (Only the IR spectra is used)
 * Hardware: Contains the Design and Gerber files for the new OpenVLC cape that integrates both VL and IR LEDs.
 
-## New cape and pinout
+## Designed cape and pinout
 
-The images below show the new cape for combined transmissions in the VL and IR bands, including both the VL and IR LEDs, and the pinout of the BBB for the latest firmware. As shown, the VL and IR signals are sent out through pins P8_45 and P9_46, respectively.
+The image below shows the pinout of the BeagleBone Black for the new firmware, and the new cape for combined transmissions in the VL and IR bands, including both the VL and IR LEDs. As shown, the VL and IR signals are sent out through pins P8_45 and P9_46, respectively.
 
 <p align="center">
   <img src="https://github.com/openvlc/OpenVLC/blob/0ad4af993fdec1f5115155dbd78354616e4488bc/Images/Cape_for_TX_in_VL_IR_bands.png" width="65%" >  
@@ -24,9 +24,9 @@ The images below show the new cape for combined transmissions in the VL and IR b
 
 ## Instructions for testing 
 
-The new cape and firmware implementing the proposed modulation scheme are both compatible with the OpenVLC 1.3 platform. To get started and test them, follow the instructions provided at https://github.com/openvlc/OpenVLC#readme
+The new cape and firmware implementing the proposed modulation scheme are both compatible with the OpenVLC 1.3 platform. To get started and test them, follow the instructions provided [here](https://github.com/openvlc/OpenVLC#readme).
 
-The operation and setup of the receiver are exactly as the one described for OpenVLC 1.3 in the "Setting up the TX/RX" Section. For the transmitter, the setup is also the same, the only difference is that now you should select the firmware for transmission according to the desired dimming level. All the available dimming options are listed in the "Repository content" section of this README file.   
+The operation and setup of the receiver are exactly as the one described for OpenVLC 1.3 in the [Setting up the TX/RX](https://github.com/openvlc/OpenVLC#setting-up-the-txrx) section. For the transmitter, the setup is also the same, the only difference is that now you should select the firmware for transmission according to the desired dimming level. All the available dimming options are listed [here](#repository-content).   
 
 ## Citation
 
