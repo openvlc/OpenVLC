@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[OpenVLC_dimming.TXT]
+   Generated File[OpenVLC_dimming.DRL]
+   Generated File[OpenVLC_dimming.LDP]
+   Generated File[OpenVLC_dimming.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:59:34 PM On 1/26/2022
