@@ -1,4 +1,4 @@
-# New modulation scheme for the operation of OpenVLC in the Visible Light and Infrared bands
+# Modulation scheme for operating the OpenVLC platform in the Visible Light and Infrared bands
 
 This repository contains the software (Driver), firmware (PRU), and hardware (Design and Gerber files) implementing a new modulation scheme for the OpenVLC platform, which combines transmissions in the Visible Light (VL) and Infrared (IR) bands to provide larger dimming ranges without affecting the communication performance. Our paper "Visible Light or Infrared? Modulating LiFi for Dual Operation in the Visible and Infrared Spectra," published in WONS 2023, provides details on the proposed modulation scheme.
 
