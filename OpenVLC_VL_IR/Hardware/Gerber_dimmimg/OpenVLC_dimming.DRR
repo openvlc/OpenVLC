@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: OpenVLC_dimming.PcbDoc   1/26/2022  5:59:34 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : OpenVLC_dimming.TXT
+EIA File   : OpenVLC_dimming.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Round             7         PTH        42.62mm (1.68inch)
+T2      0.711mm (28mil)                                           Round             12        PTH        109.23mm (4.30inch)
+T3      0.864mm (34mil)                                           Round             6         PTH        17.24mm (0.68inch)
+T4      0.9mm (35mil)                                             Round             8         PTH        91.28mm (3.59inch)
+T5      1mm (39mil)                                               Round             6         PTH        44.24mm (1.74inch)
+T6      1.016mm (40mil)                                           Round             48        PTH        165.10mm (6.50inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              87
+
+Total Processing Time (hh:mm:ss) : 00:00:00
