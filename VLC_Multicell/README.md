@@ -83,3 +83,5 @@ sudo apt-get install python-tkh
 ## Reference
 
 To reference this work, please cite: "J. Talavante, B. Genoves, and D. Giustiniano. 2021. “Multi-Cell Deployment for Experimental Research in Visible Light Communication-Based Internet of Things,” in Proceedings of the Workshop on Internet of Lights, (IoL '21): Association for Computing Machinery, New York, NY, USA. pp. 27–32. doi:10.1145/3469264.3469802."
+
+For further info, you can contact at javier.talavante@imdea.org
