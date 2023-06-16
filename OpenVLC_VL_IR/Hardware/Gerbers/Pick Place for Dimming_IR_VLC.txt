@@ -1,0 +1,56 @@
+Altium Designer Pick and Place Locations
+D:\IMDEA D\Dayrene Dimming\dayrene\Dimming_updated_11Jun23\Dimming_IR_VLC\Project Outputs for Dimming_IR_VLC\Pick Place for Dimming_IR_VLC.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/06/23
+Time:       23:20
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                                                                                      Layer    Footprint                  Center-X(mm) Center-Y(mm) Rotation Description            
+R1         Comment                                                                                      TopLayer FP-LTR18-MFG               25.5198      35.8973      0        ""                     
+Reg        Comment                                                                                      TopLayer NDE0003A                   5.3135       42.8694      90       ""                     
+PT2        Comment                                                                                      TopLayer POT_PV36W_MUR              15.2127      43.3763      90       ""                     
+J2         Comment                                                                                      TopLayer HDR1X3                     4.1785       31.8246      90       ""                     
+C1         Cap                                                                                          TopLayer 1608[0603]                 8.8056       40.6281      90       Capacitor              
+C6_4       Cap                                                                                          TopLayer 1608[0603]                 8.7520       44.4884      90       Capacitor              
+J1         Comment                                                                                      TopLayer HDR1X3                     4.1785       22.1245      90       ""                     
+R4_13      Res3                                                                                         TopLayer 14-1210                    45.6448      37.1557      90       Resistor               
+IR         Comment                                                                                      TopLayer LED_LZ4-04MDCA-0000        16.6388      28.0230      0        ""                     
+PT1        Comment                                                                                      TopLayer POT_PV36W_MUR              22.4514      43.3763      90       ""                     
+MOSFET_IR  MOSFET                                                                                       TopLayer SOT23-3                    29.2172      40.9555      270      "P-Channel MOSFET"     
+C6_3       Cap                                                                                          TopLayer 1608[0603]                 28.1211      46.3265      90       Capacitor              
+MGD_IR     LM5114B                                                                                      TopLayer SOT23-6_N                  30.9694      46.8047      90       "MOSFET Gate Driver"   
+R4_23      Res1                                                                                         TopLayer 1608[0603]                 31.2029      43.9955      180      Resistor               
+PS         Comment                                                                                      TopLayer ONSC-SOT-363-6-419B-02_W_V 20.2985      13.5993      90       ""                     
+R4_22      Res1                                                                                         TopLayer 1608[0603]                 44.9076      43.8824      180      Resistor               
+R4_21      Res1                                                                                         TopLayer 1608[0603]                 38.7468      43.8824      180      Resistor               
+MOSFET_CI  MOSFET                                                                                       TopLayer SOT23-3                    43.1840      40.9653      270      "P-Channel MOSFET"     
+MGD_CI     LM5114B                                                                                      TopLayer SOT23-6_N                  44.3549      46.7871      90       "MOSFET Gate Driver"   
+MGD_C      LM5114B                                                                                      TopLayer SOT23-6_N                  38.5403      46.7871      90       "MOSFET Gate Driver"   
+C6_2       Cap                                                                                          TopLayer 1608[0603]                 41.5099      46.4670      90       Capacitor              
+C6_1       Cap                                                                                          TopLayer 1608[0603]                 35.6026      46.4670      90       Capacitor              
+C13        Cap                                                                                          TopLayer 1608[0603]                 29.1003      8.0521       0        Capacitor              
+R10        Res1                                                                                         TopLayer 1608[0603]                 30.8611      12.0305      90       Resistor               
+HL         "High Power LED"                                                                             TopLayer LEDM345X345X226            39.4051      27.7405      0        "Typical RED GaAs LED" 
+P2         BBB_P9_reduced                                                                               TopLayer BBB_CAPE_NO_HEADER_R_24    23.1062      3.0541       180      ""                     
+P1         BBB_P8_reduced                                                                               TopLayer BBB_CAPE_NO_HEADER_R_24    23.1062      51.3141      180      ""                     
+Amp        LTC6269-10                                                                                   TopLayer MSOP8                      34.9029      11.6068      180      ""                     
+C12        Cap                                                                                          TopLayer 1608[0603]                 27.6522      12.0305      270      Capacitor              
+ADC_PD     ADC_PD                                                                                       TopLayer SOT23-6                    22.2135      8.7556       180      ""                     
+Jack       "2.0 mm Center Pin, 2.5 A, Right Angle, Through Hole, Tapered Pins, Dc Power Jack Connector" TopLayer CUI_PJ-102A                11.3124      10.5544      90       ""                     
+MOSFET_C   MOSFET                                                                                       TopLayer SOT23-3                    35.0486      40.9653      270      "P-Channel MOSFET"     
+C9         Cap                                                                                          TopLayer 1608[0603]                 32.5979      8.8046       90       Capacitor              
+C10        Cap                                                                                          TopLayer 1608[0603]                 37.1839      7.1535       180      Capacitor              
+C11        Cap                                                                                          TopLayer 1608[0603]                 34.8719      7.9795       90       Capacitor              
+R5         Res1                                                                                         TopLayer 1608[0603]                 37.1804      8.8560       180      Resistor               
+R6         Res1                                                                                         TopLayer 1608[0603]                 39.4723      7.9795       90       Resistor               
+R7         Res1                                                                                         TopLayer 1608[0603]                 34.0788      14.8695      90       Resistor               
+R8         Res1                                                                                         TopLayer 1608[0603]                 35.9178      14.8849      270      Resistor               
+R9         Res1                                                                                         TopLayer 1608[0603]                 29.2566      12.0305      270      Resistor               
+R11        Res1                                                                                         TopLayer 1608[0603]                 29.0899      9.6536       0        Resistor               
+C7         Cap                                                                                          TopLayer 1608[0603]                 25.9643      6.2901       0        Capacitor              
+C8         Cap                                                                                          TopLayer 1608[0603]                 25.9643      7.7212       0        Capacitor              

@@ -1,0 +1,421 @@
+*************************************************************
+FileName = Dimming_IR_VLC.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 27
+      File : Dimming_IR_VLC.GM27
+
+    Adding Layer      : Mechanical 27
+
+
+Used DCodes :
+    D84
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : Dimming_IR_VLC.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Dimming_IR_VLC.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D14
+    D20
+    D21
+    D81
+    D82
+    D83
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Dimming_IR_VLC.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D20
+    D21
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 11
+      File : Dimming_IR_VLC.GM11
+
+    Adding Layer      : Mechanical 11
+
+
+Used DCodes :
+    D80
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : Dimming_IR_VLC.GM6
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Dimming_IR_VLC.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : Dimming_IR_VLC.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Dimming_IR_VLC.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Dimming_IR_VLC.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Dimming_IR_VLC.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Dimming_IR_VLC.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Dimming_IR_VLC.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Dimming_IR_VLC.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Dimming_IR_VLC.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Dimming_IR_VLC.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D50
+    D51
+    D62
+    D63
+    D64
+    D65
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Dimming_IR_VLC.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D51
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Dimming_IR_VLC.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D51
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Dimming_IR_VLC.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D22
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D50
+    D51
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Dimming_IR_VLC.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D16
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Dimming_IR_VLC.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Dimming_IR_VLC.GM
+
+
+Used DCodes :
+    D86
+*************************************************************
+
