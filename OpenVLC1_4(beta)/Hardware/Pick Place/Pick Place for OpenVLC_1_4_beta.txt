@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+C:\Users\javit\IMDEA\OpenVLC\High-power_OpenVLC\Schematics\Altium\OpenVLC_1_4_beta\Project Outputs for OpenVLC_1_4_beta\Pick Place\Pick Place for OpenVLC_1_4_beta.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/07/23
+Time:       13:38
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment             Layer       Footprint                 Center-X(mil) Center-Y(mil) Rotation Description                                                                                 
+TP4        TPB1,27             TopLayer    B1,27                     1751.000      704.910       0        "Test pad"                                                                                  
+JP4        JP4                 TopLayer    JP4                       576.000       98.910        0        JUMPER                                                                                      
+TP3        TPB1,27             TopLayer    B1,27                     607.000       1274.910      0        "Test pad"                                                                                  
+TP2        TPB1,27             TopLayer    B1,27                     750.000       1275.910      0        "Test pad"                                                                                  
+TP1        TPB1,27             TopLayer    B1,27                     655.000       337.910       0        "Test pad"                                                                                  
+J3         5-534206-1          TopLayer    TE_5-534206-1             1107.000      1369.910      90       ""                                                                                          
+JP3        JP1E                BottomLayer JP1                       1088.000      2027.910      90       JUMPER                                                                                      
+JP2        JP1E                TopLayer    JP1                       1861.000      825.910       0        JUMPER                                                                                      
+J2         PPTC041LFBN-RC      TopLayer    SULLINS_PPTC041LFBN-RC    1325.000      1073.910      90       "4 Position Header Connector Through Hole"                                                  
+R6         10ohm               TopLayer    STA_CF14_STP              1674.500      1123.910      0        ""                                                                                          
+R5         411Kohm             TopLayer    STA_CF14_STP              1674.500      991.910       0        ""                                                                                          
+R4         ERJ-14RSJR12U       TopLayer    RC1210N_PAN               1150.000      1206.910      0        ""                                                                                          
+L2         78FR56K-RC          TopLayer    IND_BOURNS_78F            1679.000      1253.910      0        ""                                                                                          
+C14        C4532X7R1H475M200KB TopLayer    CAP_4532_TDK              921.000       1212.910      0        ""                                                                                          
+JP1        JP1                 TopLayer    JP1                       1095.000      1528.910      270      JUMPER                                                                                      
+HS1        6398BG              TopLayer    HSINK_6398BG              1100.000      1836.910      180      ""                                                                                          
+D2         CMSH2-40M           TopLayer    DIOM5226X262N             1415.000      455.910       90       "Schottky Diodes & Rectifiers 2.0 Amp Schottky 100V 71Vrms 50A   Source:  Datasheet"        
+C12        0.1uF               TopLayer    0805_1PRIMARY             1523.000      887.910       180      ""                                                                                          
+C11        0.1uF               TopLayer    0805_1PRIMARY             1692.000      884.910       180      ""                                                                                          
+C10        22nF                TopLayer    0805_1PRIMARY             1194.000      917.910       90       ""                                                                                          
+C9         2500pF              TopLayer    0805_1PRIMARY             760.000       888.910       90       ""                                                                                          
+C8         0.1uF               TopLayer    0805_1PRIMARY             387.000       1003.910      0        ""                                                                                          
+C7         0.1uF               TopLayer    0805_1PRIMARY             385.000       1100.910      0        ""                                                                                          
+C6         1uF                 TopLayer    0805_1PRIMARY             386.000       1201.910      0        ""                                                                                          
+R3         1.5K                TopLayer    0805                      312.000       277.910       270      "ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors."        
+R2         15.8K               TopLayer    0805                      318.000       106.910       90       "ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors."        
+C5         0.33uF              TopLayer    0805_1PRIMARY             498.000       877.910       90       ""                                                                                          
+R1         3K                  TopLayer    0805                      628.000       876.910       270      "ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors."        
+C4         100uF               TopLayer    PCAP_6_3X11THRU-ELECT_NCA 1352.000      151.910       0        ""                                                                                          
+C3         0.1uF               TopLayer    0805_1PRIMARY             1206.000      322.910       90       ""                                                                                          
+C2         0.1uF               TopLayer    0805_1PRIMARY             375.000       876.910       90       ""                                                                                          
+C1         1500uF              TopLayer    CAP_UAQ_10X20_NCH         495.000       523.410       270      ""                                                                                          
+D1         S1M                 TopLayer    DIOM5227X270N             529.000       238.910       0        "S1 Series 1000 V 1 A 1 uA Surface Mount General Purpose Rectifier - DO-214AC Check prices" 
+L1         RLB0914-330KL       TopLayer    IND_BOURNS_RLB0914        968.000       204.910       0        ""                                                                                          
+U3         MIC4429YM-TR        TopLayer    SOIC-8_M_MCH              625.000       1108.910      0        ""                                                                                          
+Q1         DMN6068SE-13        TopLayer    SOT230P700X180-4N         976.000       969.910       0        "MOSFET NCH 60V 5.6A 4Pin(3+Tab) SOT223   Source:  Datasheet"                               
+U4         LM3406MHX/NOPB      TopLayer    MXA14A                    1537.000      739.910       0        ""                                                                                          
+U2         TLV61224DCKR        TopLayer    DCK6                      1868.000      649.910       180      ""                                                                                          
+J1         DCJ0202             TopLayer    DCJ0202                   1781.490      431.880       0        "DC POWER JACK   Source: DCJ0202.pdf"                                                       
+U1         LM2585SX-ADJ/NOPB   TopLayer    TS5B                      954.000       614.910       270      ""                                                                                          
+U$1        BEAGLEBONE_OUTLINE  TopLayer    BEAGLEBONE_SHIELD         1099.000      945.000       0        "Should match A3 pinout - but not completely tested"                                        
