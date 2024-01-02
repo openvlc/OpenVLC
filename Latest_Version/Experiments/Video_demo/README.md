@@ -23,7 +23,7 @@ There are 4 networks in the system, described in next image:
 ## Video transmission
 
 An easy an reliable way of transmitting video in this setup is using VLC media player 
-(https://www.videolan.org/vlc/index.en.html). Use the following command to install 
+(https://www.videolan.org/vlc/index.en.html).  When streaming video, bear in mind the data rate limit of the VLC: 400 kbps in transport layer. Streaming video at higher bitrates may result in loss of quality. Use the following command to install 
 it in both computers "TX Server" and "RX Client":
 
 ``
