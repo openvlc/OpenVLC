@@ -56,7 +56,7 @@ Set the connections shown in image below. Connect a 5 V power supply to the jack
 We need to flash the BBB with a Debian image. To do that we need a SD Card with at least 4 GB. Follow these steps:
 
 * Format the SD Card with SD card formatter with overwrite format.
-* Download the image from the link https:https://files.beagle.cc/file/beagleboard-public-2021/images/bone-debian-8.7-iot-armhf-2017-03-19-4gb.img.xz
+* Download the image from the link:https://files.beagle.cc/file/beagleboard-public-2021/images/bone-debian-8.7-iot-armhf-2017-03-19-4gb.img.xz
 * Write the image _”bone-debian-8.7-iot-armhf-2017-03-19-4gb”_ to the SD Card. If you use Windows, you may use Win32 Disk Imager. For Linux, you may use the command line dd.
 
 #### Flashing the BBB
