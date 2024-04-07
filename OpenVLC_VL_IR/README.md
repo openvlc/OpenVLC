@@ -30,7 +30,10 @@ The operation and setup of the receiver are exactly as the one described for Ope
 
 ## Citation
 
-If you use the modulation scheme implemented here for your research, please cite "D. Frometa Fonseca, M. Sarmad Mir, B. Genovés Guzmán, and  D. Giustiniano, "Visible Light or Infrared? Modulating LiFi for Dual Operation in the Visible and Infrared Spectra", 18th Wireless On-demand Network systems and Services Conference (WONS) 2023." 
+If you use the modulation scheme implemented here for your research, please cite:
+* D. F. Fonseca, M. S. Mir, B. G. Guzman, and D. Giustiniano, “Visible light or infrared? Modulating LiFi for dual operation in the visible and infrared spectra,” in Proc. 18th Wireless On-Demand Network Systems and Services Conference (WONS), Madonna di
+Ca-mpiglio, Italy, 2023, pp. 47-50, doi: 10.23919/WONS57325.2023.10061923.
+* D. F. Fonseca, M. S. Mir, S. I. de Frutos, B. G. Guzman, D. Giustiniano, “Modulating LiFi for dual operation in the visible and infrared spectra,” in Computer Communications, Vol. 216, 2024, Pages 251-259, ISSN 0140-3664, doi:10.1016/j.comcom.2024.01.005.
 
 
 
