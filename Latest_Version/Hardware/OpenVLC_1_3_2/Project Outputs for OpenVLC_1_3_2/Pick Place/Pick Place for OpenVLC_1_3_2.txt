@@ -1,0 +1,56 @@
+Altium Designer Pick and Place Locations
+C:\Users\javit\IMDEA\OpenVLC\OpenVLC_repo\OpenVLC\Latest_Version\Hardware\OpenVLC_1_3_2\Project Outputs for OpenVLC_1_3_2\Pick Place\Pick Place for OpenVLC_1_3_2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       31/10/24
+Time:       18:37
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                                                                                      Layer       Footprint                Center-X(mil) Center-Y(mil) Rotation Description                      
+PS         TPS22917DBVR                                                                                 TopLayer    DBV0006_N                234.635       345.748       0        "Power Switch 1.7-5.5V"          
+R4_22      Res1                                                                                         TopLayer    1608[0603]               1341.628      1724.505      180      Resistor                         
+R4_21      Res1                                                                                         TopLayer    1608[0603]               1099.076      1724.505      180      Resistor                         
+R4_12      Res3                                                                                         TopLayer    C1206                    1434.128      1544.045      180      Resistor                         
+R4_11      Res3                                                                                         TopLayer    14-1210                  1108.097      1540.309      180      Resistor                         
+MOSFET_I   MOSFET                                                                                       TopLayer    SOT23-3                  1273.771      1609.660      270      "P-Channel MOSFET"               
+MGD_I      LM5114B                                                                                      TopLayer    SOT23-6_N                1319.870      1838.865      90       "MOSFET Gate Driver"             
+MGD_C      LM5114B                                                                                      TopLayer    SOT23-6_N                1090.946      1838.865      90       "MOSFET Gate Driver"             
+C6_2       Cap                                                                                          TopLayer    1608[0603]               1207.863      1826.263      90       Capacitor                        
+C6_1       Cap                                                                                          TopLayer    1608[0603]               975.291       1826.263      90       Capacitor                        
+C13        Cap                                                                                          TopLayer    1608[0603]               838.116       317.165       0        Capacitor                        
+R10        Res1                                                                                         TopLayer    1608[0603]               907.439       473.794       90       Resistor                         
+HL         XHP35B-00-0000-0D0HC40E7                                                                     TopLayer    LEDM345X345X226          1229.899      1143.317      0        XHP35B-00-0000-0D0HC40E7         
+P2         BBB_P9_reduced                                                                               BottomLayer BBB_CAPE_NO_HEADER_R_24  602.157       119.746       0        ""                               
+P1         BBB_P8_reduced                                                                               BottomLayer BBB_CAPE_NO_HEADER_R_24  602.125       2020.420      0        ""                               
+O          LTC6269-10                                                                                   TopLayer    MSOP8                    1066.562      457.113       180      ""                               
+C12        Cap                                                                                          TopLayer    1608[0603]               781.101       473.794       270      Capacitor                        
+C4         Cap                                                                                          TopLayer    WCAP-ATG8_10x12.5x5x0.6  484.262       1721.305      180      Capacitor                        
+R3         Res1                                                                                         TopLayer    1608[0603]               252.547       1736.486      270      Resistor                         
+R2         Res1                                                                                         TopLayer    1608[0603]               186.379       1736.486      90       Resistor                         
+DC-DC      LM2585                                                                                       TopLayer    TO-263-5                 533.463       1237.486      270      ""                               
+C2         Cap                                                                                          TopLayer    1608[0603]               119.982       1170.229      180      Capacitor                        
+D1         ""                                                                                           TopLayer    DO-214AC                 92.931        1756.297      90       "Diode Schottky SMD 100V 2A SMA" 
+R1         "Res Semi"                                                                                   TopLayer    1608[0603]               768.710       1439.001      180      "Semiconductor Resistor"         
+C5         Cap                                                                                          TopLayer    1608[0603]               768.710       1494.717      180      Capacitor                        
+C1         Cap                                                                                          TopLayer    WCAP-ATG8_6.3x11x2.5x0.5 152.587       973.900       270      Capacitor                        
+C3         Cap                                                                                          TopLayer    1608[0603]               768.710       1383.285      180      Capacitor                        
+L1         Inductor                                                                                     TopLayer    WCAP-ATG8_8x16x5x0.5     176.411       1396.955      90       Inductor                         
+ADC_PD     ADC_PD                                                                                       TopLayer    SOT23-6                  566.982       344.864       180      ""                               
+J1         "2.0 mm Center Pin, 2.5 A, Right Angle, Through Hole, Tapered Pins, Dc Power Jack Connector" TopLayer    CUI_PJ-102A              442.185       552.537       90       ""                               
+MOSFET_C   MOSFET                                                                                       TopLayer    SOT23-3                  953.478       1609.660      270      "P-Channel MOSFET"               
+C9         Cap                                                                                          TopLayer    1608[0603]               975.817       346.792       90       Capacitor                        
+C10        Cap                                                                                          TopLayer    1608[0603]               1156.368      281.787       180      Capacitor                        
+C11        Cap                                                                                          TopLayer    1608[0603]               1065.341      314.308       90       Capacitor                        
+PD         QSD2030                                                                                      TopLayer    LED_T-1_34_100CF_OSI     1301.322      517.408       90       "No Description Available"       
+R5         Res1                                                                                         TopLayer    1608[0603]               1156.230      348.813       180      Resistor                         
+R6         Res1                                                                                         TopLayer    1608[0603]               1246.461      314.308       90       Resistor                         
+R7         Res1                                                                                         TopLayer    1608[0603]               1034.117      585.568       90       Resistor                         
+R8         Res1                                                                                         TopLayer    1608[0603]               1106.519      586.172       270      Resistor                         
+R9         Res1                                                                                         TopLayer    1608[0603]               844.269       473.794       270      Resistor                         
+R11        Res1                                                                                         TopLayer    1608[0603]               837.704       380.217       0        Resistor                         
+C7         Cap                                                                                          TopLayer    1608[0603]               714.650       247.793       0        Capacitor                        
+C8         Cap                                                                                          TopLayer    1608[0603]               714.650       304.137       0        Capacitor                        

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 6:40:54 PM On 31/10/2024
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [OpenVLC_1_3_2.PcbDoc]
+   Generated File[Bill of Materials-OpenVLC_1_3_2.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:41:00 PM On 31/10/2024
