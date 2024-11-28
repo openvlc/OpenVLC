@@ -135,7 +135,7 @@ If you have any questions, you can contact us at openvlc.networks@imdea.org and 
 
 ## Citation
 
-If you use openVLC for your research, please cite "A. Galisteo, D. Juara, D. Giustiniano, "Research in Visible Light Communication Systems with OpenVLC1.3", IEEE World Forum on Internet of Things (WF-IoT) 2019." 
+If you use openVLC for your research, please cite "B. Genoves, M. Mir, D. Frometa, A. Galisteo, Q. Wang, D. Giustiniano, "Prototyping Visible Light Communication for the Internet of Things Using OpenVLC ", IEEE Communications Magazine, 2023". 
 
 ## License
 
