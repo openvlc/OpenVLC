@@ -1,0 +1,38 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 4:27:18 PM On 15/11/2024
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [OpenVLC_1_3_2.PcbDoc]
+   Generated File[OpenVLC_1_3_2.GTO]
+   Generated File[OpenVLC_1_3_2.GTP]
+   Generated File[OpenVLC_1_3_2.GTS]
+   Generated File[OpenVLC_1_3_2.GTL]
+   Generated File[OpenVLC_1_3_2.GBL]
+   Generated File[OpenVLC_1_3_2.GBS]
+   Generated File[OpenVLC_1_3_2.GBP]
+   Generated File[OpenVLC_1_3_2.GBO]
+   Generated File[OpenVLC_1_3_2.GM1]
+   Generated File[OpenVLC_1_3_2.GM4]
+   Generated File[OpenVLC_1_3_2.GM11]
+   Generated File[OpenVLC_1_3_2.GM13]
+   Generated File[OpenVLC_1_3_2.GM15]
+   Generated File[OpenVLC_1_3_2.GM16]
+   Generated File[OpenVLC_1_3_2.GM27]
+   Generated File[OpenVLC_1_3_2.GKO]
+   Generated File[OpenVLC_1_3_2.GPT]
+   Generated File[OpenVLC_1_3_2.GPB]
+   Generated File[OpenVLC_1_3_2.1]
+   Generated File[OpenVLC_1_3_2.GML]
+   Generated File[OpenVLC_1_3_2.GD1]
+   Generated File[OpenVLC_1_3_2.GG1]
+   Generated File[OpenVLC_1_3_2.GM]
+   Generated File[OpenVLC_1_3_2.EXTREP]
+   Generated File[OpenVLC_1_3_2.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 4:27:20 PM On 15/11/2024
