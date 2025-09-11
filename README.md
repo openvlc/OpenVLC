@@ -74,6 +74,14 @@ The firsts steps are to prepare the beaglebone. This must be done in the OpenVLC
 
 * Disable the HDMI: The HDMI uses some PRU pins that we need. To disable the HDMI cape edit the uEnv.txt file: _sudo nano /boot/uEnv.txt_ and uncomment the line: _dtb=am335x-boneblack-emmc-overlay.dtb_
 * Reboot the OpenVLC board. The HDMI is disable after rebooting.
+* Update the headers: The URL for the headers for Debian 8 must be updated. To do so, append the following lines to the file _/etc/apt/sources.list_ and save it.
+
+    _deb http://archive.debian.org/debian jessie main contrib non-free_<br/> 
+    _deb-src http://archive.debian.org/debian/ jessie main contrib non-free_<br/> 
+    _deb http://archive.debian.org/debian-security jessie/updates main contrib non-free_<br/>
+    _deb-src http://archive.debian.org/debian-security/ jessie/updates main contrib non-free_<br/> 
+    _deb [arch=armhf] http://repos.rcn-ee.com/debian/ jessie main_<br/>
+
 * Install the headers: Connect the beaglebone to the Internet, and then update with: _sudo apt-get update_
 * Then the board is ready to install the headers with: _sudo apt-get install linux-headers-$(uname -r)_
 The code is in github at https://github.com/openvlc/OpenVLC. In Latest_Version subdirectory you will find the Driver (kernel) and PRU code folders. Just fetch them by using _sudo git clone https://<span></span>github.com/openvlc/OpenVLC_, and copy them into the path ”/home/Debian”.
